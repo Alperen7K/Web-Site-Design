@@ -1,0 +1,40 @@
+@media screen and (max-width: 500px) {
+
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("şema1/indir.png");
+    background-position: top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    
+}
+.first h1{
+    color: #6E5647;
+    font-size: 3rem;
+    text-align: center;
+    padding: 0.75rem;
+    margin-top: 1rem;
+}
+.first p{
+    color: #a37f5b;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.photo{
+    position:relative;
+    
+}
+.photo img{
+    width: 100%;
+    position: absolute;
+}
+
